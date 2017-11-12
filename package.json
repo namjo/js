@@ -1,0 +1,29 @@
+{
+  "name": "js-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namjo/js-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namjo/js-starter/issues"
+  },
+  "homepage": "https://github.com/namjo/js-starter#readme",
+  "dependencies": {
+    "connect": "^3.6.5",
+    "es6-sleep": "^2.0.2",
+    "express": "^4.16.2",
+    "sleep": "^5.1.1",
+    "system-sleep": "^1.3.6"
+  },
+  "devDependencies": {
+    "reload": "^2.2.2"
+  }
+}
